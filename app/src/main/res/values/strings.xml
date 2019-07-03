@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Watering Apps</string>
+    <string name="skip">Lewati</string>
+    <string name="next">Lanjut</string>
+    <string name="slide_1_title">Welcome To H2O Apps</string>
+    <string name="slide_1_desc">Lorem Ipsum Fachrian Hilih Jancuk Desi Coeg</string>
+    <string name="slide_2_title">Smart Watering System</string>
+    <string name="slide_2_desc">Kendalikan penyiraman pada kebun anda secara wireless</string>
+    <string name="slide_3_title">Perkiraan Cuaca</string>
+    <string name="slide_3_desc">Secara pintar otomatis menyiram kebun anda dengan bantuan perkiraan cuaca dan perangkat
+        sensor
+    </string>
+    <string name="selamatpagi">Selamat Pagi!</string>
+    <string name="selamatsiang">Selamat Siang!</string>
+    <string name="selamatmalan">Selamat Malam!</string>
+    <string name="penyiramanoto">Penyiraman Otomatis</string>
+    <string name="jadwal">Jadwal Penyiraman</string>
+    <string name="topik">Masukkan Kata Kunci Topik Untuk Memulai Koneksi ke Perangkat</string>
+    <string name="katakunci">Kata Kunci Topik</string>
+    <string name="kirim">Kirim Topik</string>
+    <string name="terakhir">Terakhir Update</string>
+</resources>
