@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "988583586538",
+    "firebase_url": "https://watering-apps.firebaseio.com",
+    "project_id": "watering-apps",
+    "storage_bucket": "watering-apps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:988583586538:android:b00cf39e8dfbc642",
+        "android_client_info": {
+          "package_name": "com.id.wtf.wateringapps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "988583586538-av40dms6om2lf16135eapkjh26a8v9fu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.id.wtf.wateringapps",
+            "certificate_hash": "ca939f82fd88592d8143ad9e0fefaa4ea7ad3af3"
+          }
+        },
+        {
+          "client_id": "988583586538-shm8ka5883epc7v3fd8cvg0u5evastdr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAL9N4wUlH5cHK9dkkhdNhmVebisQpsp48"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "988583586538-shm8ka5883epc7v3fd8cvg0u5evastdr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
