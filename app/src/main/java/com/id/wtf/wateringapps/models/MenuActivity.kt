@@ -100,7 +100,8 @@ class MenuActivity : AppCompatActivity(), View.OnClickListener, SwipeRefreshLayo
                 var value: String = p0.getValue(String::class.java)!!
                 if (value.equals("Off")) {
                     Toast.makeText(applicationContext, "Tanah Basah, penyiraman selesai", Toast.LENGTH_SHORT).show()
-                }
+                }else
+                    Toast.makeText(applicationContext,"Penyiraman Dimulai...",Toast.LENGTH_SHORT).show()
 
             }
         })
