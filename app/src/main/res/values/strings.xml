@@ -3,13 +3,11 @@
     <string name="skip">Lewati</string>
     <string name="next">Lanjut</string>
     <string name="slide_1_title">Welcome To H2O Apps</string>
-    <string name="slide_1_desc">Lorem Ipsum Fachrian Hilih Jancuk Desi Coeg</string>
+    <string name="slide_1_desc">Alat dan Aplikasi Terpadu Penyiraman Otomatis</string>
     <string name="slide_2_title">Smart Watering System</string>
     <string name="slide_2_desc">Kendalikan penyiraman pada kebun anda secara wireless</string>
-    <string name="slide_3_title">Perkiraan Cuaca</string>
-    <string name="slide_3_desc">Secara pintar otomatis menyiram kebun anda dengan bantuan perkiraan cuaca dan perangkat
-        sensor
-    </string>
+    <string name="slide_3_title">Penyiraman Otomatis</string>
+    <string name="slide_3_desc">Secara pintar otomatis menyiram kebun anda dengan bantuan perangkat sensor</string>
     <string name="selamatpagi">Selamat Pagi!</string>
     <string name="selamatsiang">Selamat Siang!</string>
     <string name="selamatmalan">Selamat Malam!</string>
